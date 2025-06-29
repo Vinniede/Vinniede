@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="160" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hi, I'm Vincent Julister 👋</h1>
+<h1 align="center">👋Hi, I'm Vincent Muthuri</h1>
 
-<h3 align="center">💻 ICT Specialist | Frontend Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 IT Specialist | Frontend Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   📍 Meru, Kenya | 📦 P.O. Box 57-60600  
